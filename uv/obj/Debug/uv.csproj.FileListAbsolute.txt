@@ -1,0 +1,10 @@
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\bin\Debug\uv.exe.config
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\bin\Debug\uv.exe
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\bin\Debug\uv.pdb
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\obj\Debug\uv.csprojAssemblyReference.cache
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\obj\Debug\uv.Form1.resources
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\obj\Debug\uv.Properties.Resources.resources
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\obj\Debug\uv.csproj.GenerateResource.cache
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\obj\Debug\uv.csproj.CoreCompileInputs.cache
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\obj\Debug\uv.exe
+C:\Users\Rolenec Lukáš\source\repos\uv\uv\obj\Debug\uv.pdb
